@@ -75,9 +75,6 @@ project-2/
 ├── dashboard.html      # Main HTML file
 ├── dashboard.css       # Styling and animations
 ├── dashboard.js        # Application logic
-├── home.html          # Home page
-├── script.js          # Additional scripts
-└── style.css          # Global styles
 ```
 
 ## 🎯 How to Use
